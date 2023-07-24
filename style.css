@@ -140,6 +140,7 @@ background-image: url(Assert/de5.jpg);
     display: flex;
     justify-content: center;
     margin-top: 20px;
+    margin-bottom: 20px;
   }
   
   .social-media a {
