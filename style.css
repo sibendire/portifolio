@@ -150,26 +150,32 @@ background-image: url(Assert/de5.jpg);
     font-size: larger;
   }
   .social-media {
-    display: flex;
-     justify-content: center; 
+    display: flex; 
+      justify-content: center;  
     margin-top: 20px;
     margin-bottom: 10px;
-     flex-wrap: wrap;
+     /* flex-wrap: wrap; */
+    
+  }
+
+  .social-media img{
+    border-radius: 30%;
+    width: 30%;
   }
   
   .social-media a {
-    margin:  10px;
-    padding: 8px 12px;
+    margin:  0px; 
+    /* padding: 4px 6px; */
     text-decoration: none;
     color: #ffffff;
-    background-color: #555555;
-    border-radius: 4px;
+     /* background-color: #555555;
+    border-radius: 4px;  */
      display: flex; 
   }
-  
+/*   
   .social-media a:hover {
     background-color: #c0bbbb;
-  }
+  } */
   
   
   
