@@ -173,7 +173,7 @@ background-image: url(Assert/de5.jpg);
   }
    
   .social-media a:hover {
-    background-color: #c0bbbb;
+    background-color: hsl(0, 4%, 95%);
   } 
   
   
