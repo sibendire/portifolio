@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-color: rgba(237, 237, 247, 0.877);
     box-sizing: border-box;
     -webkit-font-smoothing:antialiased;
      
@@ -12,19 +11,6 @@ background-image: url(Assert/de5.jpg);
     filter: blur(8px);
     -webkit-filter: blur(8px);
 }
-/* 
-  .nav-bar {
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px;
-   margin-right: 80px;
-  }
-  
-  .nav-bar a {
-    margin-right: 10px;
-    text-decoration: none;
-  } */
-
   
 .containers {
   display: flex;
@@ -38,7 +24,7 @@ background-image: url(Assert/de5.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
- /* background-color: #333333;  Adjust the background color of the navigation bar */
+
 }
 
 .left-item {
@@ -46,7 +32,6 @@ background-image: url(Assert/de5.jpg);
 }
 
 .left-item a {
-  /* color: white; */
   text-decoration: none;
   margin: 0 10px;
 }
@@ -201,33 +186,6 @@ background-image: url(Assert/de5.jpg);
   .social-media a:hover {
     background-color: hsl(0, 4%, 95%);
   } 
-  
-  
-  
-  /* .containers {
-    display: flex;
-    justify-content: right;
-    align-items: right;
-    height: 10vh;
-    background-color: #000000;
-}
-
-.nav-bar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.left-item {
-    display: flex;
-}
-
-.left-item a {
-     color: white;
-    text-decoration: none;
-    margin: 0 10px;
-} */ 
-
 
   label {
     display: block;
